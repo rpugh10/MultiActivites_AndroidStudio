@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="act1Margin">15dp</dimen>
+    <dimen name="act2Margin">20dp</dimen>
+    <dimen name="outputSize">20sp</dimen>
+</resources>

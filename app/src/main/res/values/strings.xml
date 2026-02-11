@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MidtermPractice</string>
+    <string name="editText">Enter Number:</string>
+    <string name="Generate">Generate</string>
+    <string name="multiples">Multiples</string>
+    <string name="square">Square</string>
+    <string name="cube">Cube</string>
+    <string name="div">Divisors</string>
+    <string name="output">Output:</string>
 </resources>
