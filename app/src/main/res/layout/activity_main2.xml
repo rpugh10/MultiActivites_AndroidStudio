@@ -37,6 +37,13 @@
         android:layout_height="wrap_content"
         android:text="@string/div" />
 
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/act2Margin"
+        android:text="@string/anotherNum" />
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
@@ -46,4 +53,5 @@
         android:textColorHint="@color/black"
         android:layout_height="wrap_content"
         android:hint="@string/output" />
+
 </LinearLayout>

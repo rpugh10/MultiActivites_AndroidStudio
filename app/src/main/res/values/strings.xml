@@ -7,4 +7,5 @@
     <string name="cube">Cube</string>
     <string name="div">Divisors</string>
     <string name="output">Output:</string>
+    <string name="anotherNum">Enter another number</string>
 </resources>
